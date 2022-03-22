@@ -35,3 +35,5 @@
 /ext*
 
 !/src/pyvista/README.md
+
+!/.github/workflows/action.yml
